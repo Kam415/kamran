@@ -1,0 +1,72 @@
+.row {
+				display: flex;
+			}
+
+			.box11 {
+				color: blue;
+				width: 30px;
+				border: 25px dashed grey;
+				padding: 25px;
+				margin: 25px;
+				height: 50px;
+			}
+
+			.box21 {
+				color: yellow;
+				width: 30px;
+				border: 25px dashed yellow;
+				padding: 25px;
+				margin: 25px;
+				height: 50px;
+			}
+			.box31{color: red;
+				width: 30px;
+				border: 25px dashed red;
+				padding: 25px;
+				margin: 25px;
+				height: 50px;}
+			.box41{color: gold;
+				width: 30px;
+				border: 25px dashed gold;
+				padding: 25px;
+				margin: 25px;
+				height: 50px;}
+
+			.box51{color: pink;
+				width: 30px;
+				border: 25px dashed pink;
+				padding: 25px;
+				margin: 25px;
+				height: 50px;}
+
+
+			.box61{color: purple;
+				width: 30px;
+				border: 25px dashed purple;
+				padding: 25px;
+				margin: 25px;
+				height: 50px;}
+
+
+			.box71{color: green;
+				width: 30px;
+				border: 25px dashed green;
+				padding: 25px;
+				margin: 25px;
+				height: 50px;}
+
+
+
+			.box81{color: black; 
+				width: 30px;
+				border: 25px dashed black ;
+				padding: 25px;
+				margin: 25px;
+				height: 50px;}
+
+			.box91{color: orange;
+				width: 30px;
+				border: 25px dashed orange ;
+				padding: 25px;
+				margin: 25px;
+				height: 50px;}
