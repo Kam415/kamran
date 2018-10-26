@@ -1,3 +1,22 @@
 .firstHeader {
-	color:green
+	color:white;
+
+}
+body {
+background: url("s-l640.jpg");
+
+}
+
+
+.backdrop {
+  background: url("/path/to/image.jpg") center;
+  ...
+}
+    
+
+.text {
+  color: white;
+  background: rgb(59, 2, 6);
+  mix-blend-mode: multiply;
+  ...
 }
